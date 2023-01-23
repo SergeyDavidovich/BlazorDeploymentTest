@@ -1,5 +1,3 @@
-# BlazorDeploymentTest
-
 name: Deploy to GitHub Pages
 
 # Run workflow on every push to the master branch
